@@ -1,10 +1,5 @@
 <!-- GitHub Profile README for Venkata Sai Ancha -->
 
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlmbjI1ajV4c3B2dXNiODFrNGN5ZWpxcWh6N2w1bXI5cHVheHUzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="280" />
-</p>
-
 <h1 align="center">Hi, I’m <span style="color:#00BFFF">Venkata Sai Ancha</span> 👋</h1>
 <h3 align="center">Architecting intelligent systems that bridge reasoning, automation, and scale.</h3>
 
@@ -45,7 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avsai24&show_icons=true&hide=issues&theme=react&border_radius=10&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avsai24&theme=react&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
