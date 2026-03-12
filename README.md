@@ -1,10 +1,8 @@
 <!-- GitHub Profile README — Venkata Sai Ancha -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,40:3A0CA3,100:F72585&height=230&section=header&text=Venkata%20Sai%20Ancha&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20Vision%20Systems&descAlignY=63&descSize=18&descColor=F0C4FF">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,40:3A0CA3,100:F72585&height=230&section=header&text=Venkata%20Sai%20Ancha&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20Vision%20Systems&descAlignY=63&descSize=18&descColor=F0C4FF">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,40:3A0CA3,100:F72585&height=230&section=header&text=Venkata%20Sai%20Ancha&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20Vision%20Systems&descAlignY=63&descSize=18&descColor=F0C4FF" />
-</picture>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=230&section=header&text=Venkata%20Sai%20Ancha&fontSize=54&fontColor=fff&fontAlignY=42&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20Vision%20Systems&descAlignY=63&descSize=18" width="100%" />
+</div>
 
 <div align="center">
 
@@ -155,7 +153,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=avsai24&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=avsai24&theme=radical&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -243,8 +241,6 @@ me.say_hi()
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:3A0CA3,100:7209B7&height=130&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=18&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:3A0CA3,100:7209B7&height=130&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=18&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:3A0CA3,100:7209B7&height=130&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=18&animation=twinkling" />
-</picture>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=130&section=footer&text=Thanks%20for%20visiting!&fontColor=fff&fontSize=18" width="100%" />
+</div>
